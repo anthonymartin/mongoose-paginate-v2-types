@@ -1,0 +1,12 @@
+{
+  "name": "@types/mongoose-paginate-v2",
+  "version": "1.0.0",
+  "description": "",
+  "types": "index.d.ts",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Martin",
+  "license": "MIT"
+}
